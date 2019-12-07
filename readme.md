@@ -8,7 +8,7 @@ The style vecor of a painting is calculated from gram matrix of feature map in d
 
 * example.py is the simple python code to create an index and insert dummy data and search data in elasticsearch. This file is for understanding the elastisearch in python.
 
-* exmapl_image.py is the python code to create an index and insert images' content and style vector and search data in elasticsearch. 
+* example_image.py is the python code to create an index and insert images' content and style vector and search data in elasticsearch. 
 
 ## Getting Started
 
