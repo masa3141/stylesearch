@@ -10,6 +10,11 @@ The style vecor of a painting is calculated from gram matrix of feature map in d
 
 * example_image.py is the python code to create an index and insert images' content and style vector and search data in elasticsearch. 
 
+## Art data
+Please download the data from [kaggle](https://www.kaggle.com/ikarus777/best-artworks-of-all-time/data)
+
+After downloading please copy "resized" folder into data/resized
+
 ## Getting Started
 
 ```
